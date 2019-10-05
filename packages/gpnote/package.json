@@ -1,6 +1,6 @@
 {
     "name": "gpnote",
-    "version": "0.1.17",
+    "version": "0.1.19",
     "description": "> TODO: description",
     "author": "lidong08 <lidong08@baidu.com>",
     "homepage": "",
@@ -15,6 +15,5 @@
     ],
     "scripts": {
         "test": "echo \"Error: run tests from root 1\""
-    },
-    "devDependencies": {}
+    }
 }
