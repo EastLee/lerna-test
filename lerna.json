@@ -3,5 +3,5 @@
         "packages/*",
         "packages/plugins/*"
     ],
-    "version": "0.1.5"
+    "version": "independent"
 }
