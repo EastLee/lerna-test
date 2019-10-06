@@ -3,5 +3,5 @@
         "packages/*",
         "packages/plugins/*"
     ],
-    "version": "0.1.21-beta3"
+    "version": "0.1.21"
 }
