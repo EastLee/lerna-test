@@ -3,7 +3,7 @@
 > TODO: description
 
 ## Usage
-mnsdsdfkfhddhshshddvgjvj
+mnsdsdfkfhddhshshddvg
 ```
 const gpnote = require('gpnote');
 
