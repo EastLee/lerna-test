@@ -3,5 +3,10 @@
         "packages/*",
         "packages/plugins/*"
     ],
+    "command": {
+        "version": {
+            "noPush": true
+        }
+    },
     "version": "independent"
 }
